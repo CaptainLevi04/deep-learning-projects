@@ -1,4 +1,4 @@
-# Applied Deep Learning Portfolio Repository
+# Applied Deep Learning Portfolio
 
 A high-performance portfolio of production-grade Deep Learning systems spanning **Computer Vision**, **Medical Imaging Diagnostics**, **Audio Signal Processing**, and **Precision Agriculture Semantic Segmentation**.
 
@@ -111,8 +111,3 @@ python 03-plant-leaf-semantic-segmentation/src/train_segmentation.py --epochs 10
 ```
 
 ---
-
-## 👤 Author & Acknowledgments
-
-- **Engineer**: Amr Gamal ([@CaptainLevi04](https://github.com/CaptainLevi04))
-- **Program**: EME Artificial Intelligence & Deep Learning Training Program
