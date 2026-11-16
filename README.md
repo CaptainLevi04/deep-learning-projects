@@ -83,7 +83,7 @@ deep-learning-projects/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/amrgamal007/deep-learning-projects.git
+git clone https://github.com/CaptainLevi04/deep-learning-projects.git
 cd deep-learning-projects
 ```
 
@@ -114,5 +114,5 @@ python 03-plant-leaf-semantic-segmentation/src/train_segmentation.py --epochs 10
 
 ## 👤 Author & Acknowledgments
 
-- **Engineer**: Amr Gamal ([@amrgamal007](https://github.com/amrgamal007))
+- **Engineer**: Amr Gamal ([@CaptainLevi04](https://github.com/CaptainLevi04))
 - **Program**: EME Artificial Intelligence & Deep Learning Training Program
